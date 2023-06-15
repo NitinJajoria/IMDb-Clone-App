@@ -1,0 +1,11 @@
+.movie_page{
+    transform: scale(0);
+}
+
+.show_page { 
+    transform: scale(1); 
+}
+
+.change-color { 
+    color: #ff0000; 
+}
